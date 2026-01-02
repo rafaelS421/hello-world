@@ -1,3 +1,21 @@
 # This is a comment and will not be interpreted as code
 
 print ('Hello World')
+
+# Integers
+a = 2
+b = 239
+
+# Floats
+c = 2.1
+d = 239.0
+
+#String
+e = 'Hello world!'
+my_text = 'This is my text'
+
+#boolean
+x = True
+y = False
+
+'Bruce' + ' ' + 'Wayne'
